@@ -1,2 +1,2 @@
-20213094	 Han chohee
+Han chohee: 20213094
 Kookmin Univ. SW dept.
